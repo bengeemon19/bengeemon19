@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bengeemon19
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in SWE
 - 🌱 I’m currently working on becoming a full stack dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: benja.eusse@gmail.com
