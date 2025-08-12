@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bengeemon19
-- 👀 I’m interested in SWE
-- 🌱 I’m currently working on becoming a full stack dev
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game dev????? OMG WOW MUCH YES???????
+- 🌱 I’m currently working on a overly ambitious idea which will most likely not be posted
+- 💞️ I’m looking to collaborate on anything really lol, im ready to learn anything aswell
 - 📫 How to reach me: benja.eusse@gmail.com
 
 <!---
